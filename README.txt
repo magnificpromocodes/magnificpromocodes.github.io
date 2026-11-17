@@ -8,11 +8,11 @@ Files:
 - assets/magnific-checkout-proof.png: supplied checkout screenshot (if included)
 
 PUBLISH:
-1. Create a GitHub repository named EXACTLY: YOUR-GITHUB-USERNAME.github.io
+1. Create a GitHub repository named EXACTLY: magnificpromocodes.github.io
 2. Upload all files and the assets folder to the repository root.
 3. Open Settings > Pages.
 4. Select Deploy from a branch, branch main, folder /(root), then Save.
-5. Visit https://YOUR-GITHUB-USERNAME.github.io/
+5. Visit https://magnificpromocodes.github.io/
 
 IMPORTANT:
 - Replace any future references to YOUR-GITHUB-USERNAME with your real GitHub username only if you add canonical URLs or sitemap.
